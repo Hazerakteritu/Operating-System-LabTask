@@ -1,4 +1,5 @@
 //Using fork 
+// child is a duplicate of the parent process.
 //getpid() returns the current process ID.
 //getppid() returns the parent process ID.
 
@@ -25,4 +26,6 @@ int main()
         printf("Parent having  pid is   %d\n", getpid());
         printf("My Child's pid is   %d\n", q);
     }
+
+    return 0;
 }

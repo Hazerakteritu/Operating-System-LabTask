@@ -9,7 +9,7 @@ using namespace std;
 #include <pthread.h> 
 #include <semaphore.h> 
 #include <unistd.h> 
- 
+
 #define SIZE 5 
 int buffer[SIZE], in = 0, out = 0; 
  

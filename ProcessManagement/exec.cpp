@@ -1,6 +1,5 @@
 //CreateProcess using fork() and exec()
 //The exec() functions replaces the current process image with a new process image.
-// It loads the program into the current process space
 
 #include <bits/stdc++.h>
 using namespace std;

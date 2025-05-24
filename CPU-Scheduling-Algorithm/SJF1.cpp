@@ -1,4 +1,4 @@
-//SJF (Non-Preemptive) — Same Arrival Time 
+// Shortest Job First (Non-Preemptive) — Same Arrival Time 
 
 
 #include <bits/stdc++.h> 

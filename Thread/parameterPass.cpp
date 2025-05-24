@@ -1,7 +1,8 @@
 //Parameter Passing 
 // program to create thread. Thread prints 0-4 while the main process prints 20-24 
 
-#include<stdio.h> 
+#include <bits/stdc++.h>
+using namespace std;
 #include<unistd.h> 
 #include<pthread.h> 
 
